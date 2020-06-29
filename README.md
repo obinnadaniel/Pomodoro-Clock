@@ -1,7 +1,7 @@
 # pomodoro
-#### A simple pomodoro timer written in JavaScript. Find it at http://roche.io/pomodoro/
+#### A simple pomodoro timer written in JavaScript. Find it at http://github.com/obinnadaniel/Pomodoro-Clock/
 
-There are plenty of timers like this online ([Moosti](http://moosti.com/), [Tomato Timer](http://tomato-timer.com/)), but the best workflow tool is the one you use. This was a quick side project for me in September 2015 to brush up on my web development and build something I would use myself. It takes the best features from all of the similar timers, and drops the cruft.
+There are plenty of timers like this online ([Moosti](http://moosti.com/), [Tomato Timer](http://tomato-timer.com/)), but the best workflow tool is the one you use. This was a quick side project for me in June 2020 to brush up on my web development and build something I would use myself. It takes the best features from all of the similar timers, and drops the cruft.
 
 #### Features:
 - Minutes remaining shown in browser tab
